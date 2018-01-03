@@ -1,0 +1,8 @@
+[package]
+name = "nanoid-rust"
+version = "0.1.0"
+authors = ["Dmitry Achkasov <achkasov.dmitry@live.com>"]
+
+[dependencies]
+time = "*"
+rand = "0.3"
